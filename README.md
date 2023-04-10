@@ -10,13 +10,13 @@
 
 ### :hammer_and_wrench: Some of the languages and Tools I know:
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/apple/apple-original.svg" title="apple" alt="apple" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bitbucket/bitbucket-original.svg" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/centos/centos-plain-wordmark.svg" title="centos" alt="centos" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/centos/centos-original-wordmark.svg" title="centos" alt="centos" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dart/dart-plain-wordmark.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
