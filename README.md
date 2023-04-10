@@ -8,7 +8,7 @@
 
 ---
 
-### :hammer_and_wrench: Some of the languages and Tools I know:
+### :hammer_and_wrench: Some of the languages and tools I know:
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
