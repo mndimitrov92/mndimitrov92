@@ -49,7 +49,7 @@
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/subversion/subversion-original-wordmark.svg" title="svn" alt="svn" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/subversion/subversion-original.svg" title="svn" alt="svn" width="40" height="40"/>&nbsp;
 
 ---
 
