@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-# My name is Marin.
+#### My name is Marin.
 - 🔭 I’m currently working on an app which crawls multiple websites and visualizes their content in a single REST API web interface.
 - 🌱 I’m currently learning Mobile applications with Flutter and Dart.
 - 💬 Ask me about anyhing.
